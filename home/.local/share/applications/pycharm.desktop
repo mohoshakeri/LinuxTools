@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=2025.2.1
+Type=Application
+Name=PyCharm
+Comment=Code Editor
+Exec=/home/mohosh/Apps/PyCharm/bin/pycharm
+Icon=pycharm
+Terminal=false
+Categories=Development;Application;
+StartupNotify=true
+StartupWMClass=jetbrains-pycharm
+

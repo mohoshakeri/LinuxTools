@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=2025.2.1
+Type=Application
+Name=CLion
+Comment=Code Editor
+Exec=/home/mohosh/Apps/CLion/bin/clion
+Icon=clion
+Terminal=false
+Categories=Development;Application;
+StartupNotify=true
+StartupWMClass=jetbrains-clion
+

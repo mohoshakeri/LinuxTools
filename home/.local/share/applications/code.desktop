@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=VSCode
+Comment=Code Editor
+Exec=/home/mohosh/Apps/VSCode/code
+Icon=code
+Terminal=false
+Categories=Development;Application;
+StartupNotify=true
+
