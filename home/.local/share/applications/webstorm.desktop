@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=2025.2.1
+Type=Application
+Name=WebStorm
+Comment=Code Editor
+Exec=/usr/bin/firejail --net=none /home/mohosh/Apps/WebStorm/bin/webstorm
+Icon=webstorm
+Terminal=false
+Categories=Development;Application;
+StartupNotify=true
+StartupWMClass=jetbrains-webstorm
+
