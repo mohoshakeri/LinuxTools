@@ -1,0 +1,17 @@
+[Unit]
+Description=Run Hiddify
+After=network.target
+
+[Service]
+ExecStart=/usr/share/hiddify/hiddify
+
+Restart=always
+RestartSec=3
+
+StandardOutput=journal
+StandardError=journal
+
+User=root
+
+[Install]
+WantedBy=multi-user.target
